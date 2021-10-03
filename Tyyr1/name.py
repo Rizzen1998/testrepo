@@ -1,4 +1,4 @@
 def myname():
-    print('My name is Tyyr')
+    print(' Hello, my name is Tyyr.')
 
 myname()
